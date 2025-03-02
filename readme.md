@@ -183,7 +183,7 @@ namespace MyFirstCalculator
 					else
 					{
 						Console.WriteLine("");
-						Console.WriteLine(@"Please press ""y"" to perforem another calculation or ""n"" to quit the app:");
+						Console.WriteLine(@"Please press ""y"" to perform another calculation or ""n"" to quit the app:");
 					}
 				}
 			}
@@ -251,3 +251,5 @@ namespace MyFirstCalculator
 ## Running the app
 
 Simply press **F5** to build the app. Enjoy!
+
+The full Visual Studio 2022 project, along with this article, can be downloaded from this GitHub repository:

@@ -25,7 +25,7 @@
 					else
 					{
 						Console.WriteLine("");
-						Console.WriteLine(@"Please press ""y"" to perforem another calculation or ""n"" to quit the app:");
+						Console.WriteLine(@"Please press ""y"" to perform another calculation or ""n"" to quit the app:");
 					}
 				}
 			}
