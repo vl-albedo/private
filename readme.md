@@ -252,4 +252,4 @@ namespace MyFirstCalculator
 
 Simply press **F5** to build the app. Enjoy!
 
-The full Visual Studio 2022 project, along with this article, can be downloaded from this GitHub repository:
+The full Visual Studio 2022 project, along with this article, can be downloaded from this GitHub repository: https://github.com/vl-albedo/private
